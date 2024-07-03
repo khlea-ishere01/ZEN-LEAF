@@ -11,11 +11,10 @@ module.exports = {
 	},
 onStart: async function(){}, 
 onChat: async function({
- let messages = ["hello love", "hi baby", "Hi, good evening"]
 	event,
 	message,
 	getLang
 }) {
-	if (event.body && event.body.toLowerCase() == "hi") return message.reply(Math.floor(Math.random()messages.length));
+	if (event.body && event.body.toLowerCase() == "hi") return message.reply(Math.random("Hellooo", "Hi baby koo", "Hii, kumusta?", "Good day!", "Hi! How are you?"));
 }
 };
