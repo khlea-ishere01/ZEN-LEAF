@@ -34,10 +34,10 @@ module.exports = {
 			dashBoardData.getAll()
 		]);
 
-		const pathThreads = `${__dirname}/tmp/threadsData.json`;
-		const pathUsers = `${__dirname}/tmp/usersData.json`;
-		const pathDashBoard = `${__dirname}/tmp/dashBoardData.json`;
-		const pathGlobal = `${__dirname}/tmp/globalData.json`;
+		const pathThreads = `database/controller/threadsData.json`;
+		const pathUsers = `database/controller/usersData.json`;
+		const pathDashBoard = `database/controller/dashBoardData.json`;
+		const pathGlobal = `database/controller/globalData.json`;
 
 		fs.writeFileSync(pathThreads, JSON.stringify(threadsDataBackup, null, 2));
 		fs.writeFileSync(pathUsers, JSON.stringify(usersDataBackup, null, 2));
