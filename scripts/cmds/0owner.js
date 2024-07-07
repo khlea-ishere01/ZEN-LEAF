@@ -17,12 +17,12 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ownerInfo = {
-				name: 'Julianne Vivzhare',
+				name: 'Kaycee Nellaine',
 				gender: 'Female',
-				hobby: 'Mamimiss siya 24/7',
-				Fb: 'https://facebook.com/61561147561510',
-				Relationship: 'uh ewan',
-				bio: 'Yours truly, juli.'
+				hobby: 'ganda 24/7',
+				Fb: 'https://facebook.com/61561979464493',
+				Relationship: 'single',
+				bio: 'I like jeonghan'
 			};
 
 			const bold = 'https://i.imgur.com/SyBjkss.mp4';
