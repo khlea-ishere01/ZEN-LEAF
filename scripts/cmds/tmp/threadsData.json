@@ -1,0 +1,712 @@
+[
+  {
+    "threadID": "7686931724750524",
+    "threadName": null,
+    "threadThemeID": null,
+    "emoji": null,
+    "adminIDs": [
+      "61561979464493"
+    ],
+    "imageSrc": null,
+    "approvalMode": false,
+    "members": [
+      {
+        "userID": "61555620333839",
+        "name": "Jazel Jeon",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561979464493",
+        "name": "Kaycee Nellaine",
+        "gender": "FEMALE",
+        "nickname": "mommy",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100089702664588",
+        "name": "Zen Leaf",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      }
+    ],
+    "banned": {},
+    "settings": {
+      "sendWelcomeMessage": true,
+      "sendLeaveMessage": true,
+      "sendRankupMessage": false,
+      "customCommand": true
+    },
+    "data": {
+      "setRole": {
+        "julianne": 2
+      }
+    },
+    "isGroup": true,
+    "createdAt": "2024-07-07T13:25:50.823Z",
+    "updatedAt": "2024-07-07T16:02:02.191Z"
+  },
+  {
+    "threadID": "7715753138510922",
+    "threadName": "TRiBUS [MAiN GC]",
+    "threadThemeID": "527564631955494",
+    "emoji": "🐋",
+    "adminIDs": [
+      "61550495401146",
+      "61553074311385",
+      "61556040667057",
+      "61561338245125",
+      "61561800470680"
+    ],
+    "imageSrc": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/448689131_484085134152396_7195484945217705348_n.png?stp=dst-png_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=935a9d&_nc_eui2=AeEXNIXpMN-p_eCC9Fw5v_Z_7I9LWnU-L4Xsj0tadT4vhYrMP9Tc3RYhf9q3ToV6DxOxlwyzDllITAz4n5qr8O8A&_nc_ohc=MGUEndRALAUQ7kNvgF7jXSd&_nc_ht=scontent-sea1-1.xx&oh=03_Q7cD1QEhYKbV-vCftY8w0Km4Huclc0CizJVTF-NTBLVSn497Gg&oe=66B221FF",
+    "approvalMode": true,
+    "members": [
+      {
+        "userID": "61550495401146",
+        "name": "Chandler Yoon",
+        "gender": "NEUTER",
+        "nickname": "CHANDLER ✹ CO-C.E.O",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61552801906821",
+        "name": "레사",
+        "gender": "FEMALE",
+        "nickname": "RESSA ✹ GENERAL MANAGER²",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61553074311385",
+        "name": "Xenaia Zy Lockettri",
+        "gender": "MALE",
+        "nickname": "XENAiA ✹ CO-C.E.O [H]",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61553245916359",
+        "name": "Hanni Pham",
+        "gender": "FEMALE",
+        "nickname": "HANNi ✹ EVENT MANAGER",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61553601655266",
+        "name": "PROSEPHINO IYSANDELE",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61556040667057",
+        "name": "Jiwon Kim",
+        "gender": "FEMALE",
+        "nickname": "JiWON ✹ C.E.O",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61558510462414",
+        "name": "ショーン",
+        "gender": "MALE",
+        "nickname": "HAN ✹ STRAYKIDS",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61559194143819",
+        "name": "Shiriena Choi",
+        "gender": "FEMALE",
+        "nickname": "SHiRiENA ✹ LE SSERAFIM",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61559531012223",
+        "name": "李娜",
+        "gender": "FEMALE",
+        "nickname": "KARiNA ✹ AESPA",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61559575469213",
+        "name": "김재윤",
+        "gender": "MALE",
+        "nickname": "ALiSTAiR ✹ SEVENTEEN",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61560024022799",
+        "name": "winky.",
+        "gender": "FEMALE",
+        "nickname": "WiNKY ✹ ITZY",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61560312060154",
+        "name": "Asla Hera",
+        "gender": "FEMALE",
+        "nickname": "ASLA ✹ ANIME CHARACTER",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61560838016608",
+        "name": "장원영",
+        "gender": "FEMALE",
+        "nickname": "WONYOUNG ✹ IVE",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61560852399078",
+        "name": "Kiesha Choi",
+        "gender": "FEMALE",
+        "nickname": "KiESHA ✹ ACTRESS",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561195588849",
+        "name": "Kim Gohyun",
+        "gender": "MALE",
+        "nickname": "GOHYUN ✹ ATT PROVIDER",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561265747603",
+        "name": "Hyunjin Hwang",
+        "gender": "MALE",
+        "nickname": "HYUNJiN ✹ STRAYKIDS",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561312146802",
+        "name": "Mitsuri Kanroji",
+        "gender": "MALE",
+        "nickname": "MITSURi ✹ ANIME CHARACTER",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561338245125",
+        "name": "Isabeau Sirclume",
+        "gender": "FEMALE",
+        "nickname": "iSABEAU ✹ GENERAL DiRECTOR",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561359732576",
+        "name": "Mingyu Kim",
+        "gender": "MALE",
+        "nickname": "MiNGYU ✹ SEVENTEEN",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561452612166",
+        "name": "Joie Jae",
+        "gender": "FEMALE",
+        "nickname": "JOiE ✹ XG",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561517442652",
+        "name": "River Archergel",
+        "gender": "FEMALE",
+        "nickname": "RiVER ✹ SEVENTEEN",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561725270369",
+        "name": "Blue Pongtiwat Tangwancharoen",
+        "gender": "MALE",
+        "nickname": "BLUE ✹ ACTRESS",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561768243578",
+        "name": "Selene Inara",
+        "gender": "FEMALE",
+        "nickname": "SELENE ✹ RED VELVET",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561800470680",
+        "name": "TRIBUS LABEL",
+        "gender": "MALE",
+        "nickname": "MAiN ✹ ADD",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561887864464",
+        "name": "Facebook user",
+        "nickname": "CANE ✹ ACTRESS",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100049974369813",
+        "name": "Bambi Gbfngshotamo",
+        "gender": "FEMALE",
+        "nickname": "BAMBi ✹ ACTRESS",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100078244969763",
+        "name": "RAVEN",
+        "gender": "NEUTER",
+        "nickname": "RAVEN ✹ BTS",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100080637741993",
+        "name": "Sabrina Jimenez",
+        "gender": "NEUTER",
+        "nickname": "SABRiNA ✹ ITZY",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100082856437964",
+        "name": "Calista Grace",
+        "gender": "FEMALE",
+        "nickname": "CALiSTA ✹ MEMBER OBSERVER²",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100083815286881",
+        "name": "Sebastian Riley",
+        "gender": "MALE",
+        "nickname": "SEBASTiAN ✹ ACTOR",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100088243865148",
+        "name": "Oreo Candy",
+        "gender": "NEUTER",
+        "nickname": "OREO ✹ SEVENTEEN",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100089702664588",
+        "name": "Zen Leaf",
+        "gender": "FEMALE",
+        "nickname": "ZEN ✹ BOT [ _ ]",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100095632170268",
+        "name": "Kaix Zyeith",
+        "nickname": null,
+        "inGroup": true,
+        "count": 1
+      }
+    ],
+    "banned": {},
+    "settings": {
+      "sendWelcomeMessage": true,
+      "sendLeaveMessage": true,
+      "sendRankupMessage": false,
+      "customCommand": true
+    },
+    "data": {},
+    "isGroup": true,
+    "createdAt": "2024-07-07T13:58:18.603Z",
+    "updatedAt": "2024-07-07T16:02:02.589Z"
+  },
+  {
+    "threadID": "26890267070572509",
+    "threadName": "BOT iNTERACTiONS GC ✹ TRiBUS",
+    "threadThemeID": null,
+    "emoji": null,
+    "adminIDs": [
+      "61553074311385",
+      "61561800470680"
+    ],
+    "imageSrc": null,
+    "approvalMode": false,
+    "members": [
+      {
+        "userID": "61552984947706",
+        "name": "Leia Vivzhare",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": false,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561979464493",
+        "name": "Kaycee Nellaine",
+        "nickname": null,
+        "inGroup": false,
+        "count": 1
+      },
+      {
+        "userID": "61550495401146",
+        "name": "Chandler Yoon",
+        "gender": "NEUTER",
+        "nickname": "aeron",
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61550617617640",
+        "name": "Yang Jungwon",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61553074311385",
+        "name": "Xenaia Zy Lockettri",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61556040667057",
+        "name": "Jiwon Kim",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61558510462414",
+        "name": "ショーン",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61559194143819",
+        "name": "Shiriena Choi",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61560312060154",
+        "name": "Asla Hera",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561338245125",
+        "name": "Isabeau Sirclume",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561359732576",
+        "name": "Mingyu Kim",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561800470680",
+        "name": "TRIBUS LABEL",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100049974369813",
+        "name": "Bambi Gbfngshotamo",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100082856437964",
+        "name": "Calista Grace",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100088243865148",
+        "name": "Oreo Candy",
+        "gender": "NEUTER",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100089702664588",
+        "name": "Zen Leaf",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      }
+    ],
+    "banned": {},
+    "settings": {
+      "sendWelcomeMessage": true,
+      "sendLeaveMessage": true,
+      "sendRankupMessage": false,
+      "customCommand": true
+    },
+    "data": {},
+    "isGroup": true,
+    "createdAt": "2024-07-07T13:58:55.669Z",
+    "updatedAt": "2024-07-07T15:59:57.004Z"
+  },
+  {
+    "threadID": "8101211753225177",
+    "threadName": "bot",
+    "threadThemeID": null,
+    "emoji": null,
+    "adminIDs": [
+      "61561597322461"
+    ],
+    "imageSrc": null,
+    "approvalMode": false,
+    "members": [
+      {
+        "userID": "61553072288302",
+        "name": "ۦۦ sadie",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61557666387493",
+        "name": "dose",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61558781415462",
+        "name": "Yuri Takahashi",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561597322461",
+        "name": "Facebook user",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "61561996284302",
+        "name": "Worth Eli",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100071910293125",
+        "name": "Worth Mensahero",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100089702664588",
+        "name": "Zen Leaf",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      }
+    ],
+    "banned": {},
+    "settings": {
+      "sendWelcomeMessage": true,
+      "sendLeaveMessage": true,
+      "sendRankupMessage": false,
+      "customCommand": true
+    },
+    "data": {},
+    "isGroup": true,
+    "createdAt": "2024-07-07T14:32:08.896Z",
+    "updatedAt": "2024-07-07T16:02:07.288Z"
+  },
+  {
+    "threadID": "61553074311385",
+    "threadName": null,
+    "threadThemeID": null,
+    "emoji": null,
+    "adminIDs": [],
+    "imageSrc": null,
+    "approvalMode": false,
+    "members": [
+      {
+        "userID": "61553074311385",
+        "name": "Xenaia Zy Lockettri",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100089702664588",
+        "name": "Zen Leaf",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      }
+    ],
+    "banned": {},
+    "settings": {
+      "sendWelcomeMessage": true,
+      "sendLeaveMessage": true,
+      "sendRankupMessage": false,
+      "customCommand": true
+    },
+    "data": {},
+    "isGroup": false,
+    "createdAt": "2024-07-07T15:43:18.022Z",
+    "updatedAt": "2024-07-07T15:43:21.487Z"
+  },
+  {
+    "threadID": "61561800470680",
+    "threadName": null,
+    "threadThemeID": null,
+    "emoji": null,
+    "adminIDs": [],
+    "imageSrc": null,
+    "approvalMode": false,
+    "members": [
+      {
+        "userID": "61561800470680",
+        "name": "TRIBUS LABEL",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      },
+      {
+        "userID": "100089702664588",
+        "name": "Zen Leaf",
+        "gender": "FEMALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0,
+        "permissionConfigDashboard": false
+      }
+    ],
+    "banned": {},
+    "settings": {
+      "sendWelcomeMessage": true,
+      "sendLeaveMessage": true,
+      "sendRankupMessage": false,
+      "customCommand": true
+    },
+    "data": {},
+    "isGroup": false,
+    "createdAt": "2024-07-07T15:59:36.946Z",
+    "updatedAt": "2024-07-07T15:59:36.946Z"
+  }
+]
