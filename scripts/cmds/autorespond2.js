@@ -57,17 +57,7 @@ const replies = {
 "thank youu": "you're welcome!",
 "yesha": "pagpahingahin mo po muna si nanay",
 "Hi": "hello babyy",
-"hello": "hello babyy",
-"hi": "hello babyy",
-"Hello": "hello babyy",
-"Hii": "hello babyy",
-"hii": "hello babyy",
-"Hiii": "hello babyy",
-"hiii": "hello babyy",
-"loe": "hello babyy",
-"Loe": "hello babyy",
-"loee": "hello babyy",
-"Loee": "hello babyy",};
+"hello": "hello babyy",};
 
 // React based on words
 for (const [emoji, words] of Object.entries(emojis)) {
